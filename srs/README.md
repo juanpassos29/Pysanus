@@ -16,7 +16,7 @@ Repositorio del código fuente del trabajo final de programación UdeA Ingenier�
         </tr>
         <tr>
             <td>
-                <h1><b>Trabajo Final</b></h1>
+                <h1><b>Trabajo Final - Pysanus - Juan José Passos</b></h1>
             </td>
         </tr>
         <tr>
