@@ -15,7 +15,7 @@ Repositorio del código fuente del trabajo final de programación UdeA Ingenier�
             </td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 <h1><b>Trabajo Final - Pysanus</b></h1>
             </td>
         </tr>
