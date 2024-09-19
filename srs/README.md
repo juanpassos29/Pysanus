@@ -41,7 +41,7 @@ Repositorio del código fuente del trabajo final de programación UdeA Ingenier�
 <h2> <b> Por: Juan José Passos Marín. </b> </h2>
 <a href="mailto:juan.passos@udea.edu.co"> ✉ Juan José Passos Marín </a>
 <h2> <b> Por: Lizeth Henao Pineda. </b> </h2>
-<a href="mailto:lizethn.henao@udea.edu.co"> ✉ Lizeth Henao Pineda </a>
+<a href="mailto:lizethn.henao@udea.edu.co"> ✉ Lizeth Henao Pinzon </a>
 </div>
 
 <br>
